@@ -16,4 +16,4 @@ Javaの初心者がコードを書く環境を整えて実際にプログラミ�
 
 ### JAVAのインストール
 まずはバットとボールを確保しましょう  
-[Java]<https://www.oracle.com/jp/java/>公式ページにアクセスして、「JAVAダウンロード」を押下  
+[Java](https://www.oracle.com/jp/java/)公式ページにアクセスして、「JAVAダウンロード」を押下  
